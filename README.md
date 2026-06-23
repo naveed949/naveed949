@@ -6,6 +6,7 @@
 
 | Project | Description |
 |---|---|
+| [Conclave](https://github.com/naveed949/Conclave) | Decentralized, database-free backend on a from-scratch Raft consensus implementation — leader election, log replication, snapshotting, dynamic membership, linearizable reads, and a tamper-evident audit log |
 | [kaia-mcp](https://github.com/naveed949/kaia-mcp) | MCP server for Kaia blockchain — accounts, tokens, NFTs, staking, and governance via natural language |
 | [zk-snark-example](https://github.com/naveed949/zk-snark-example) | End-to-end ZK-SNARK implementation with snarkjs and Solidity verifiers |
 | [Yul-in-Action](https://github.com/naveed949/Yul-in-Action) | Hands-on guide to mastering Yul, Ethereum's intermediate language |
@@ -16,7 +17,7 @@
 ## Tech Stack
 
 `Solidity` `Yul` `Rust` `TypeScript` `Go` `Node.js`
-`Zero-Knowledge Proofs` `EVM Internals` `viem` `ethers.js` `Hardhat` `Foundry` `Actix` `MCP Protocol`
+`Zero-Knowledge Proofs` `EVM Internals` `Distributed Systems` `Raft Consensus` `viem` `ethers.js` `Hardhat` `Foundry` `Actix` `MCP Protocol`
 
 ## Experience
 
