@@ -18,6 +18,11 @@
 - [zk-snark-example](https://github.com/naveed949/zk-snark-example) — end-to-end ZK-SNARK example with `snarkjs` and Solidity verifiers.
 - [Yul-in-Action](https://github.com/naveed949/Yul-in-Action) — practical guide to Ethereum's Yul intermediate language.
 
+### Open-source contributions
+
+- Contributor to [t3code](https://github.com/pingdotgg/t3code).
+- Contributor to [LLM Wiki](https://github.com/nashsu/llm_wiki).
+
 ### What I'm building
 
 I apply systems and protocol-engineering discipline to AI: secure agent tool use, reproducible evaluation, evidence-backed orchestration, and useful on-chain integrations.
