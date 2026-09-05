@@ -1,30 +1,27 @@
 # Naveed Iqbal
 
-**Blockchain Engineer** with 8+ years shipping production systems on Ethereum, Kaia (Klaytn), and EVM-compatible chains. Currently focused on **MCP servers for blockchain**, **zero-knowledge proofs**, and **Rust systems programming**.
+### AI Engineer
 
-## What I Build
+- 🤖 Building secure, evidence-driven AI agent systems, coding-agent orchestration, and MCP tooling.
+- ⛓️ 8+ years shipping blockchain and distributed-systems software across Ethereum, Kaia, and EVM-compatible chains.
+- 🛡️ Interested in reliable tool execution, least-privilege sandboxes, evaluation, and agent safety.
+- 🌍 Working remotely and building in public where I can.
 
-| Project | Description |
-|---|---|
-| [Conclave](https://github.com/naveed949/Conclave) | Decentralized, database-free backend on a from-scratch Raft consensus implementation — leader election, log replication, snapshotting, dynamic membership, linearizable reads, and a tamper-evident audit log |
-| [kaia-mcp](https://github.com/naveed949/kaia-mcp) | MCP server for Kaia blockchain — accounts, tokens, NFTs, staking, and governance via natural language |
-| [zk-snark-example](https://github.com/naveed949/zk-snark-example) | End-to-end ZK-SNARK implementation with snarkjs and Solidity verifiers |
-| [Yul-in-Action](https://github.com/naveed949/Yul-in-Action) | Hands-on guide to mastering Yul, Ethereum's intermediate language |
-| [merkle-tree-builder](https://github.com/naveed949/merkle-tree-builder) | Concurrent Merkle Tree construction in Go using goroutines |
-| [rusty-blockchain](https://github.com/naveed949/rusty-blockchain) | Blockchain implementation from scratch in Rust |
-| [Eth-bounding-curve](https://github.com/naveed949/Eth-bounding-curve) | EVM-based bonding curve implementation for token economics |
+### Tech I'm focused on
 
-## Tech Stack
+`Python` `TypeScript` `Rust` `LLM agents` `MCP` `LLM evaluation` `Agent security` `Solidity` `Zero-knowledge proofs` `Distributed systems`
 
-`Solidity` `Yul` `Rust` `TypeScript` `Go` `Node.js`
-`Zero-Knowledge Proofs` `EVM Internals` `Distributed Systems` `Raft Consensus` `viem` `ethers.js` `Hardhat` `Foundry` `Actix` `MCP Protocol`
+### Selected open-source work
 
-## Experience
+- [Conclave](https://github.com/naveed949/Conclave) — decentralized backend with a from-scratch Raft implementation, including replication, snapshots, dynamic membership, linearizable reads, and a tamper-evident audit log.
+- [kaia-mcp](https://github.com/naveed949/kaia-mcp) — MCP server for Kaia accounts, tokens, NFTs, staking, and governance workflows.
+- [zk-snark-example](https://github.com/naveed949/zk-snark-example) — end-to-end ZK-SNARK example with `snarkjs` and Solidity verifiers.
+- [Yul-in-Action](https://github.com/naveed949/Yul-in-Action) — practical guide to Ethereum's Yul intermediate language.
 
-- **Klaytn Foundation** — Blockchain Engineer (see contributions at [@naveed-klaytn](https://github.com/naveed-klaytn))
-- **OpenClaw** — Open-source contributor ([openclaw](https://github.com/openclaw))
+### What I'm building
 
-## Connect
+I apply systems and protocol-engineering discipline to AI: secure agent tool use, reproducible evaluation, evidence-backed orchestration, and useful on-chain integrations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveed949/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/naveed949)
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/naveed949/) · [GitHub](https://github.com/naveed949)
