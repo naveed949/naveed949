@@ -21,7 +21,7 @@
 ### Open-source contributions
 
 - Contributor to [T3 Code v0.0.34](https://github.com/pingdotgg/t3code/releases/tag/v0.0.34), including provider-safety, Claude lifecycle, and provider-update UX fixes ([#6602](https://github.com/pingdotgg/t3code/pull/6602), [#6606](https://github.com/pingdotgg/t3code/pull/6606), [#7761](https://github.com/pingdotgg/t3code/pull/7761)).
-- Contributor to [LLM Wiki](https://github.com/nashsu/llm_wiki).
+- Contributor to [LLM Wiki](https://github.com/nashsu/llm_wiki): [Ollama web-search integration with API-key-free search](https://github.com/nashsu/llm_wiki/pull/210).
 
 ### What I'm building
 
