@@ -15,7 +15,7 @@
 
 - [Conclave](https://github.com/naveed949/Conclave) — decentralized backend with a from-scratch Raft implementation, including replication, snapshots, dynamic membership, linearizable reads, and a tamper-evident audit log.
 - [kaia-mcp](https://github.com/naveed949/kaia-mcp) — MCP server for Kaia accounts, tokens, NFTs, staking, and governance workflows.
-- [zk-snark-example](https://github.com/naveed949/zk-snark-example) — end-to-end ZK-SNARK example with `snarkjs` and Solidity verifiers.
+- [snarkjs-zk-demo](https://github.com/naveed949/snarkjs-zk-demo) — end-to-end ZK-SNARK demo with `snarkjs` and Solidity verifiers.
 - [Yul-in-Action](https://github.com/naveed949/Yul-in-Action) — practical guide to Ethereum's Yul intermediate language.
 
 ### Open-source contributions
